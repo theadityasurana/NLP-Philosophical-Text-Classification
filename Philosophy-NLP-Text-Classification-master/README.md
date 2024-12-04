@@ -1,4 +1,4 @@
-![title](Pictures/title_image.jpeg)
+
 # Philosophy NLP & Text Classification
 A book of philosophy represents an effort to systematically organize one's thought about the world. Using the data from the history of philosophy to classify texts thus enables us to, by proxy, classify how people think about the world. Where some projects focus on sentiment analysis, here we focus on conceptual, or ideological analysis. 
 
@@ -60,4 +60,3 @@ The solid accuracy scores and wide-open potential applications of the model made
 - adding additional texts to the corpus, especially those associated with Stoicism, eastern philosophy (Confucianism, Taoism, Buddhism), and contemporary political movements. 
 - building a recommender system to recommend books or other media based on a user's philosophical leanings.
 
-Thank you for your interest. If you are interested in contributing to the project or have questions about it, please feel free to email me at kcalizadeh@gmail.com or to reach out on Twitter - @aslidsiksoraksi.
