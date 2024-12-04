@@ -53,7 +53,7 @@ With this knowledge, we can then make sure to speak to our audiences in the ways
 The model can be used to identify the philosophical leanings of potential clients, customers, or employees (in the classification phase) and to better understand those leanings (in the exploration phase, via w2v analysis). This can facilitate more productive conversations, better customer relations, and stronger employee productivity.
 
 ### Conclusion & Next Steps
-Overall, we were able to attain about 80% accuracy over 10 classes - a solid result. Our w2v models gave clear pictures of their respective schools, though they were less helpful at the level of authors since they had less text to go on there. The data was visualized and made available for use in classification and exploration on a dash app. The repo for that app is [here](https://github.com/kcalizadeh/phil_nlp_dashboard).
+Overall, we were able to attain about 80% accuracy over 10 classes - a solid result. Our w2v models gave clear pictures of their respective schools, though they were less helpful at the level of authors since they had less text to go on there. The data was visualized and made available for use in classification and exploration on a dash app. 
 
 The solid accuracy scores and wide-open potential applications of the model made the project seem like a promising one for further development. Our next steps include:
 - working with the Twitter API to build a function that can take a Twitter user's handle and generate a classification for that user.
